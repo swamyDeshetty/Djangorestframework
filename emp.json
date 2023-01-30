@@ -1,0 +1,38 @@
+[
+{
+    "model": "Djangorestapp.employee",
+    "pk": 1,
+    "fields": {
+        "EmpName": "swamy",
+        "Emprole": "pythondeveloper",
+        "EmpSal": 25000
+    }
+},
+{
+    "model": "Djangorestapp.employee",
+    "pk": 2,
+    "fields": {
+        "EmpName": "manusha",
+        "Emprole": "Sql developer",
+        "EmpSal": 20000
+    }
+},
+{
+    "model": "Djangorestapp.employee",
+    "pk": 3,
+    "fields": {
+        "EmpName": "satwika",
+        "Emprole": "Teacher",
+        "EmpSal": 30000
+    }
+},
+{
+    "model": "Djangorestapp.employee",
+    "pk": 4,
+    "fields": {
+        "EmpName": "gouthami",
+        "Emprole": "dataentry",
+        "EmpSal": 20000
+    }
+}
+]
